@@ -13,12 +13,9 @@
   - Shell programing (bash, bourne shell)
   - Web Scraping
   - Web Development
+  - SDN-NFV
 - 🌱 I’m currently learning ...
-  - System Administration
-  - Software Defined Network
-  - Network Function Virtualization
-  - Computer Graphics
-  - Computer Networking
+  - CSCC Infrastructure Training...
 - 📫 How to reach me ...
   - email 👉 linyangzhe0508@gmail.com
 
