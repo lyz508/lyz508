@@ -1,21 +1,10 @@
 - 👋 Hi, I’m @lyz508
-- 👀 I’m interested in 
-  - Language
-    - c/c++
-    - python
-    - C#
-    - Java
-    - Javascript
-  - Qt
-  - React/JQuery
-  - Winform/WPF/ASP.NET MVC
-  - NodeJS
-  - Shell programing (bash, bourne shell)
-  - Web Scraping
-  - Web Development
-  - SDN-NFV
+- 👀 I’m studying in NYCU Computer Science
 - 📫 How to reach me ...
   - email 👉 linyangzhe0508@gmail.com
+
+![lyz508's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyz508&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyz508&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 lyz508/lyz508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
