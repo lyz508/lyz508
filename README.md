@@ -3,7 +3,6 @@
 - 📫 How to reach me ...
   - email 👉 linyangzhe0508@gmail.com
 
-![lyz508's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyz508&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyz508&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
