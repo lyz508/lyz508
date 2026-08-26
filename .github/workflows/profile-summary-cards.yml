@@ -1,29 +1,6 @@
 name: GitHub Profile Summary Cards
 
-on:name: GitHub Profile Summary Cards
-
 on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
-
-      - uses: lyz508/github-profile-summary-cards@aefdc879b82f59ee5f30951894e1cf68dfb1fd54
-        env:
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
-        with:
-          USERNAME: lyz508
-          UTC_OFFSET: 8
-          THEME: default
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
