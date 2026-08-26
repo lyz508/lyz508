@@ -2,4 +2,10 @@
 - 📫 How to reach me ...
   - email 👉 linyangzhe0508@gmail.com
 
-[![YZ's GitHub stats](https://github-stats-extended.vercel.app/api?username=lyz508)](https://github.com/stats-organization/github-stats-extended)
+![](profile-summary-card-output/default/0-profile-details.svg)
+
+![](profile-summary-card-output/default/1-repos-per-language.svg)
+![](profile-summary-card-output/default/2-most-commit-language.svg)
+
+![](profile-summary-card-output/default/3-stats.svg)
+![](profile-summary-card-output/default/4-productive-time.svg)
